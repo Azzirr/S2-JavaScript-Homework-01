@@ -4,4 +4,4 @@ function rotateByKElements(k){
     array.push(...rotate);
     return array;
 }
-console.log(rotateByKElements(3));
+console.log(rotateByKElements(2));
